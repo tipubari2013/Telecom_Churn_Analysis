@@ -13,4 +13,6 @@ Objectives:
 6. Showing the Confusion Matrix, Classification report, and ROC-AUC
 7. Explaining accuracy, precision, recall, f1 score
 
+Dataset: https://github.com/tipubari2013/Telecom_Churn_Analysis/blob/main/Churn.csv
+
 Data source: https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python
